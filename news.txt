@@ -1,0 +1,7 @@
+Nuovo Aggiornamento 2.2.7 - Stable relase!
+
+- Implementato il nuovo custom launcher.
+- Implementato il nuovo sistema di auto-update.
+- Risolti alcuni bug con le texture.
+- Cambiamento generale del desgin e dei menu di avvio.
+- Risolti svariati problemi di crash riscontrati nei periodi di testing.

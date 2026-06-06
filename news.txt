@@ -1,3 +1,8 @@
+Nuovo Aggiornamento 2.2.10
+
+- Implementata la voicechat al posto della Plasmo Voice. /
+- Implementato il nuovo sistema Radio.
+
 Nuovo Aggiornamento 2.2.7 - Stable relase!
 
 - Implementato il nuovo custom launcher.

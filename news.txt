@@ -1,3 +1,19 @@
+Nuovo Aggiornamento 2.2.11
+
+- Nuova Lobby principale & Restyling del server.
+- Sistemate le ottimizzazioni.
+- Rimozione mod Spore.
+- Rimozione mod AlexMobs per le custom Entity.
+- Nuovo sistema Salute che comprende: 
+🩹 Ferite e infezioni: le ferite non curate possono infettarsi e peggiorare nel tempo.
+🦴 Fratture: cadute e forti impatti possono causare ossa rotte, limitando i movimenti.
+😴 Affaticamento e salute mentale: stanchezza, isolamento e situazioni pericolose influenzano il personaggio.
+🤒 Malattie: freddo, umidità e cibo avariato possono causare raffreddore o salmonella.
+💊 Oggetti medici: utilizza bende, disinfettante e morfina per curarti.
+❤️ Danni interni: alcuni incidenti possono causare lesioni più gravi che richiedono cure specifiche.
+🚑 Rianimazione: i compagni possono soccorrerti quando ti trovi in condizioni critiche.
+- Nuove Skins per le Armi (disponibili prossimamente sullo Store).
+
 Nuovo Aggiornamento 2.2.10
 
 - Implementata la voicechat al posto della Plasmo Voice. /

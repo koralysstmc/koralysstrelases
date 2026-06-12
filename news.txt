@@ -1,7 +1,6 @@
 Nuovo Aggiornamento 2.2.12
 
 - Rimozione Sound Casuali che interferivano durante il gameplay.
-- Rimessa la mod Spore per la gestione dell'infezione.
 - Implementato il nuovo sistema droghe attraverso la Psychadelic-Chemistry.
 - Rimossa la mod medica deadout.
 

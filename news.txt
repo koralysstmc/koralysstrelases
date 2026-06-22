@@ -1,3 +1,14 @@
+Nuovo Aggiornamento 2.2.13
+
+- Aggiunti i veicoli di emergenza (Ambulanza, Macchina, ecc...)
+- Aggiunto il nuovo sistema di revive con PlayerRevive.
+- Rimossa KeepITHealty.
+- Risolti alcuni problemi di renderizzazione dei datapacks.
+- Aggiunte alcune mod per l'ottimizzazione di embeddium come EntityCulling o FastPacks.
+- Ottimizzato il caricamento delle entità lato client.
+- Rimessa la mod Spore.
+- Pubblicato il nuovo sistema custom di infezione attraverso KoralysstInfection con Microscopio e computer da ricerca.
+
 Nuovo Aggiornamento 2.2.12
 
 - Rimozione Sound Casuali che interferivano durante il gameplay.

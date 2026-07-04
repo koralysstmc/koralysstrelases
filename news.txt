@@ -1,10 +1,6 @@
-Nuovo Aggiornamento 2.2.13
+Nuovo Aggiornamento 2.2.14
 
-- Aggiunti i veicoli di emergenza (Ambulanza, Macchina, ecc...)
-- Aggiunto il nuovo sistema di revive con PlayerRevive.
-- Rimossa KeepITHealty.
-- Risolti alcuni problemi di renderizzazione dei datapacks.
-- Aggiunte alcune mod per l'ottimizzazione di embeddium come EntityCulling o FastPacks.
-- Ottimizzato il caricamento delle entità lato client.
-- Rimessa la mod Spore.
-- Pubblicato il nuovo sistema custom di infezione attraverso KoralysstInfection con Microscopio e computer da ricerca.
+- Ottimizzate le configurazioni del server.
+- Risolti svariati piccoli bug e problemi riscontrati con mod e plugin custom.
+- Rimozione di alcune mod non più funzionanti, inutili o con oggetti buggati.
+- Aggiunta della nuova mod **First AID** per permettere ai medici di poter curare i pazienti.

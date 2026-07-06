@@ -1,6 +1,7 @@
-Nuovo Aggiornamento 2.2.14
+Nuovo Aggiornamento 2.2.15
 
 - Ottimizzate le configurazioni del server.
 - Risolti svariati piccoli bug e problemi riscontrati con mod e plugin custom.
 - Rimozione di alcune mod non più funzionanti, inutili o con oggetti buggati.
-- Aggiunta della nuova mod **First AID** per permettere ai medici di poter curare i pazienti.
+- Refresh entità.
+- Rimozione mod Terralith (non più necessaria).

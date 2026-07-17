@@ -1,7 +1,7 @@
-Nuovo Aggiornamento 2.2.15
+Nuovo Aggiornamento 2.2.16
 
-- Ottimizzate le configurazioni del server.
 - Risolti svariati piccoli bug e problemi riscontrati con mod e plugin custom.
-- Rimozione di alcune mod non più funzionanti, inutili o con oggetti buggati.
-- Refresh entità.
-- Rimozione mod Terralith (non più necessaria).
+- Rimozione di alcune textures e oggetti inutili rimasti da precedenti configurazioni rimosse.
+- Aggiunta di un nuovo sistema per realizzare Documenti scritti direttamente in rp, protete creare 
+  un documento attraverso il comando /documento create <nome> importando successivamente il png
+  che dovrà avere.
